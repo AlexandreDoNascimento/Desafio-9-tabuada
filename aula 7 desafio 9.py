@@ -10,4 +10,4 @@ print('{} x {} = {}'.format(n, 7, n*7))
 print('{} x {} = {}'.format(n, 8, n*8))
 print('{} x {} = {}'.format(n, 9, n*9))
 print('{} x {} = {}'.format(n, 10, n*10))
-print('---'*20)  #aqui estou falando para fazer 20vezes o tracinho
+print('---'*20)  #aqui estou falando para fazer 20vezes o tracinho.
